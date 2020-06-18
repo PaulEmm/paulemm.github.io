@@ -12,3 +12,5 @@ Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer
 As Peter Parks likes to point out:
 
 > Your friendly neighborhood Spider-Man!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Spiderman_scarecrow_-_Blewbury_Scarecrow_Competition%2C_Oxfordshire_-_geograph.org.uk_-_1358966.jpg"/>
