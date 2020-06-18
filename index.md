@@ -8,3 +8,7 @@ Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer
 * Is very powerful
 * No need for glasses anymore
 * Nice mask included
+
+As Peter Parks likes to point out:
+
+> Your friendly neighborhood Spider-Man!
